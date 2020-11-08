@@ -1,0 +1,8 @@
+{
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:3.7",
+    "extensions": ["ms-python.python"],
+    "context": "..",
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash",
+    },
+  }
